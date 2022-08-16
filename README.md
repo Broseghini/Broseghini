@@ -1,4 +1,4 @@
-Olá me chamo Matheus Broseghini 
+<!-- Olá me chamo Matheus Broseghini 
 Sou estudando na Kenzie Academy Brasil, curso Full Stack, abrangindo habilidades tanto em Front-End quanto Back-End, além de soft skills necessários para o mercado de trabalho. 👋
 
 <div align="center">
@@ -18,7 +18,7 @@ Sou estudando na Kenzie Academy Brasil, curso Full Stack, abrangindo habilidades
   
 </div>
   
-
+ -->
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
